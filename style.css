@@ -1,0 +1,9 @@
+#part-1 h2 { 
+    color: green; font-style: italic;
+}
+p {
+    color:blue;
+}
+p.large-text{ 
+    font-size: 15px;
+ }
